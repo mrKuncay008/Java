@@ -2,9 +2,9 @@
 package Oracle01;
 
 public class Customer {
-    public stringQuis name = "Cristaono";
+    public String name = "Cristaono";
     public int CustID = 001;
-    public stringQuis address;
+    public String address;
     public int orderNum;
     public int age;
     
