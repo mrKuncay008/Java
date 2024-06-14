@@ -1,5 +1,10 @@
 com\mycompany\mygame\KeyHandler.class
+<<<<<<< HEAD
 com\mycompany\mygame\Mygame.class
 entity\entity.class
 entity\Player.class
 com\mycompany\mygame\GamePanel.class
+=======
+com\mycompany\mygame\GamePanel.class
+com\mycompany\mygame\Mygame.class
+>>>>>>> 8ea2f1a (Update Linux)

@@ -5,6 +5,7 @@
     <artifactId>Mygame</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+<<<<<<< HEAD
     <dependencies>
         <dependency>
             <groupId>com.mycompany</groupId>
@@ -13,6 +14,8 @@
             <type>jar</type>
         </dependency>
     </dependencies>
+=======
+>>>>>>> 8ea2f1a (Update Linux)
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>19</maven.compiler.source>
