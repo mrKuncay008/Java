@@ -3,6 +3,7 @@ public class anjing {
     String jenis;
     int umur;
     String warna;
+<<<<<<< HEAD
     
     public anjing(String jenis, int umur, String warna) {
         this.jenis = jenis;
@@ -39,21 +40,34 @@ public class anjing {
     void menggongong()
     {
         System.out.printf("'huhuhuheuhhuahaa'\n");
+=======
+   
+    void menggongong()
+    {
+
+>>>>>>> 8ea2f1a (Update Linux)
     }
 
     void makan()
     {
+<<<<<<< HEAD
         System.out.printf("'nyamabayamnn'\n");
+=======
+>>>>>>> 8ea2f1a (Update Linux)
 
     }
 
     void tidur()
     {
+<<<<<<< HEAD
         System.out.printf("'zzzZZ'\n");
+=======
+>>>>>>> 8ea2f1a (Update Linux)
 
     }
 
      public static void main(String[] args) {
+<<<<<<< HEAD
          // anjing sample 1
         anjing anjing_1 = new anjing("Bulldog", 18, "Hitam");
          System.out.println("Halo, Anjing! Sample-1");
@@ -76,4 +90,9 @@ public class anjing {
          anjing_1.tidur();
          System.out.println("");
      }
+=======
+    
+        System.out.println(" haloo anjing");
+    }
+>>>>>>> 8ea2f1a (Update Linux)
 }

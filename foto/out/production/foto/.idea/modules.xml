@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -5,4 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/foto.iml" filepath="$PROJECT_DIR$/foto.iml" />
     </modules>
   </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foto.iml" filepath="$PROJECT_DIR$/foto.iml" />
+    </modules>
+  </component>
+>>>>>>> 8ea2f1a (Update Linux)
 </project>
