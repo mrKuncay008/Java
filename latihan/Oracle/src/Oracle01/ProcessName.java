@@ -8,7 +8,11 @@ public class ProcessName {
         String greeting = "You name is ";
 
         System.out.print("Enter your name: ");
-         name = console.nextLine();
+         int pin = in.nextInt();
+
+         do {
+            
+         } while ();
 
         System.out.println("Hello, " + greeting + name + "!");
     }
