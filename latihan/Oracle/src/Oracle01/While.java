@@ -12,4 +12,3 @@ public class While {
         System.out.println("Cutdown cut off !!!");
     }
   }
-}
